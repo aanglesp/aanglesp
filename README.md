@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @aanglesp on github
 - 👀 I’m interested in front-end development and Bussines Intelligence
-- 🌱 I’m currently learning React, Angular and PowerBi
-- 💞️ I’m looking to collaborate on page development projects
-- 📫 How to reach me . . .
+- 🌱 I’m learning React, Angular and PowerBi
+- 💞️ I’m looking to collaborate on development projects
+- 📫 You can contact to me on twitter or send an email
+- ✉ Twitter: @angles_is_ok
+- ✉ gmail: alexanderaaap@gmail.com
 
 <!---
 aanglesp/aanglesp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
