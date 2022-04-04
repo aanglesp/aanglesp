@@ -6,7 +6,7 @@
 ### <div align="center">I'm front-end developer and marketing student 💪 passionate about business intelligence 🧐 donuts lover coffee and travel 🚗</div>  
   
 
-- 💻 I’m currently working on [9780Bitcoin.com](https://github.com/rishavanand/github-profilinator)  
+- 💻 I’m currently working on  web pages development (Angular and React)  
   
 
 - 🌱 I’m currently learning Vue.js and data science  
